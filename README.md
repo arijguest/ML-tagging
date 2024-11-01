@@ -1,4 +1,4 @@
-**ML-Tagging**
+#**ML-Tagging**
 
 ML-Tagging is a Python program designed to **automatically generate tags** for text data scraped from **one or more sitemaps**, leveraging OpenAI’s GPT model for high-quality tagging.
 
@@ -6,7 +6,7 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 
 **Note:** This notebook is optimized for use in **Google Colab**, allowing users to access it with minimal setup via the link provided - see **"ML-tagging.ipynb"**.
 
-**Features**
+###**Features**
 
 **Automated Tagging:** Uses OpenAI's advanced language model to produce relevant tags for your content.
 
@@ -17,7 +17,7 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 **Flexible Sitemap Input:** Accepts multiple sitemaps to cover a wide range of web pages.
 
 
-**User Parameters**
+###**User Parameters**
 
 **OpenAI API Key:** Required to access the GPT model for tag generation.
 
@@ -26,7 +26,7 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 **Output Directory:** Specify where the output CSV file will be saved.
 
 
-**Output**
+###**Output**
 
 The tagged data is saved as a CSV file in your chosen output directory. The CSV includes the following headers:
 
@@ -37,14 +37,14 @@ Webpage Title: Title of each webpage.
 Tags: Generated hashtags based on the content.
 
 
-**License**
+###**License**
 
 This project is licensed under the **CC-BY License**, allowing free reuse with credit.
 
-Author
+###**Author**
 
 Created by **Ari Guest**.
 
 **Note:** This project is not actively maintained. You are welcome to contribute improvements under the CC-BY license. Happy tagging!
 
-01-11-2024
+_01-11-2024_
