@@ -8,6 +8,8 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 
 
 
+
+
 ### **Features**
 
 **Automated Tagging:** Uses OpenAI's advanced language model to produce relevant tags for your content.
@@ -21,6 +23,8 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 
 
 
+
+
 ### **User Parameters**
 
 **OpenAI API Key:** Required to access the GPT model for tag generation.
@@ -28,6 +32,8 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 **Sitemap(s):** Input one or more sitemaps from which text data will be scraped.
 
 **Output Directory:** Specify where the output CSV file will be saved.
+
+
 
 
 
@@ -43,9 +49,13 @@ Tags: Generated hashtags based on the content.
 
 
 
+
+
 ### **License**
 
 This project is licensed under the **CC-BY License**, allowing free reuse with credit.
+
+
 
 
 
