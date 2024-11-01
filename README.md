@@ -6,6 +6,8 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 
 **Note:** This notebook is optimized for use in **Google Colab**, allowing users to access it with minimal setup via the link provided - see **"ML-tagging.ipynb"**.
 
+
+
 ### **Features**
 
 **Automated Tagging:** Uses OpenAI's advanced language model to produce relevant tags for your content.
@@ -17,6 +19,8 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 **Flexible Sitemap Input:** Accepts multiple sitemaps to cover a wide range of web pages.
 
 
+
+
 ### **User Parameters**
 
 **OpenAI API Key:** Required to access the GPT model for tag generation.
@@ -24,6 +28,7 @@ This tool is particularly useful for **content categorization, SEO,** and **AI c
 **Sitemap(s):** Input one or more sitemaps from which text data will be scraped.
 
 **Output Directory:** Specify where the output CSV file will be saved.
+
 
 
 ### **Output**
@@ -37,13 +42,17 @@ Webpage Title: Title of each webpage.
 Tags: Generated hashtags based on the content.
 
 
+
 ### **License**
 
 This project is licensed under the **CC-BY License**, allowing free reuse with credit.
 
+
+
 ### **Author**
 
 Created by **Ari Guest**.
+
 
 **Note:** This project is not actively maintained. You are welcome to contribute improvements under the CC-BY license. Happy tagging!
 
