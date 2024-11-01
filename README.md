@@ -11,3 +11,5 @@ Data is output as a CSV file to rhe selected output directory. Headers: URL, Web
 Licence: CC-BY (free re-use with credit)
 
 Created by: Ari Guest (2024)
+
+This program will not be maintained after publishing. Feel free to make changes or improvements under the CC-BY licence. Happy tagging!
